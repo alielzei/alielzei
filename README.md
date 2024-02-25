@@ -1,8 +1,9 @@
-<p align="center">
-  <img style="border-radius: 100%;" width=200 src="./portrait.jpg" alt="Portrait of Ali Al Zein">
-</p>
+# Ali Al Zein
 
-Find my resume [here](https://docs.google.com/document/d/14nFjsjWh0EQQ-OZkGmgNOu2yaEeyCaxZ6Y0vOGlkJIQ/export?format=pdf)
+<img width=175 src="./portrait.jpg" alt="Portrait of Ali Al Zein">
+
+- [Resume](https://docs.google.com/document/d/14nFjsjWh0EQQ-OZkGmgNOu2yaEeyCaxZ6Y0vOGlkJIQ/export?format=pdf) 
+- [LinkedIn](https://docs.google.com/document/d/14nFjsjWh0EQQ-OZkGmgNOu2yaEeyCaxZ6Y0vOGlkJIQ/export?format=pdf)
 
 
 
